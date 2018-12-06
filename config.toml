@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sharp-colden-7a329e.netlify.com"
 languageCode = "en-us"
 title = "Matt Brody"
 theme = "hugo-coder-master"
