@@ -43,7 +43,7 @@ disqusShortname = "yourdiscussshortname"
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
-    url = "https://twitter.com/"
+    url = "https://twitter.com/Matthew_Brody_?lang=en"
 
 # Menu links
 [[menu.main]]
