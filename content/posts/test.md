@@ -3,7 +3,7 @@ draft = false
 date = 2018-12-11T14:27:29-08:00
 title = "My First Post"
 slug = ""
-tags = [quote]
+tags = []
 categories = []
 +++
 
