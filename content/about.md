@@ -3,18 +3,16 @@ title = "About Hugo"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Hello world!
 
+I am Matt Brody and thank you for taking the time to visit my website.
 
-## Setup
+Currently, I am a Technology Assistant for Dallas School District 2 in Dallas, Oregon. I help repair and maintain the district’s computers, networks, and provide a point of contact for the teaching/administration staff.
 
-Some fun facts about [Hugo](http://gohugo.io/):
+This website will serve as my professional landing page with links to my github account and resume. It will also serve as my personal blog, where I will discuss a variety of topics including technology, my own professional development, cycling, politics, and whatever else occupies my mind on a given day.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+Feel free to read, share, and leave a comment if you find my content enjoyable.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+Thank you again and take care!
 
-Thanks for reading!
+Matt Brody
