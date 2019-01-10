@@ -46,7 +46,7 @@ disqusShortname = "yourdiscussshortname"
     url = "https://twitter.com/Matthew_Brody_?lang=en"
 [[params.social]]
     name = "Strava"
-    icon = "fab fa-twitter fa-2x"
+    icon = "strava_color.png"
     weight = 3
     url = "https://www.strava.com/athletes/20365894"
 
