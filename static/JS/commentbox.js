@@ -1,4 +1,4 @@
-<script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+npm install commentbox.io --save
 
 const commentBox = require('commentbox.io');
 
