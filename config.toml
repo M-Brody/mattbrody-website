@@ -12,7 +12,7 @@ enableRobotsTXT = true
 editor = "nano"
 languageCode = "en"
 language = "en"
-theme = "vncnt-hugo"
+theme = "vncnt-hugo-master"
 title = "Matthew Brody · Landing Page"
 
 [blackfriday]
