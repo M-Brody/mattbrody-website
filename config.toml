@@ -23,7 +23,7 @@ title = "Matthew Brody · Landing Page"
   posts = "posts/:slug/"
 
 [params]
-  author = "Matt Brody"
+  author = "Matthew Brody"
   description = "Landing Page"
   bio = "Technology Assistant \nDallas School District."
   avatar = "img/avatar.jpg"
