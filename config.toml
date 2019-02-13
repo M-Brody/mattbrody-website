@@ -31,7 +31,7 @@ title = "Matthew Brody · Landing Page"
 
   [params.contact]
     email = "matt@mattbrody.io"
-    github = "https://github.com/M-Brody"
-    twitter = "https://twitter.com/Matthew_Brody_?lang=en"
+    github = "M-Brody"
+    twitter = "Matthew_Brody_"
     strava = "https://www.strava.com/athletes/20365894"
     ello = ""
