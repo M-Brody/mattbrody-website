@@ -25,7 +25,7 @@ title = "Matthew Brody · Landing Page"
 [params]
   author = "Matthew Brody"
   description = "Landing Page"
-  bio = "Technology Assistant \nDallas School District."
+  bio = "Technology Assistant \nDallas School District"
   avatar = "img/avatar.jpg"
   favicon = "img/mb_favicon.ico"
 
