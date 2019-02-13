@@ -30,7 +30,7 @@ title = "Matthew Brody · Landing Page"
   favicon = "img/mb_favicon.ico"
 
   [params.contact]
-    email = "matt@mattbrody.io"
+    email = "hello@mattbrody.io"
     github = "M-Brody"
     twitter = "Matthew_Brody_"
     strava = "20365894"
