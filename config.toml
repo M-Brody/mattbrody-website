@@ -24,13 +24,13 @@ title = "Matthew Brody · Landing Page"
 
 [params]
   author = "Matthew Brody"
+  email = "matt@mattbrody.io"
   description = "Landing Page"
   bio = "Technology Assistant \nDallas School District"
   avatar = "img/dsd_pic.jpg"
   favicon = "img/mb_favicon.ico"
 
   [params.contact]
-    email = "hello@mattbrody.io"
     linkedin = "in/matthew-brody-42b112192/"
     github = "M-Brody"
     twitter = "Matthew_Brody_"
