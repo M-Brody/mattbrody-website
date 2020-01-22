@@ -24,7 +24,7 @@ title = "Matthew Brody · Landing Page"
 
 [params]
   author = "Matthew Brody"
-  email = "matt@mattbrody.io"
+  email = "hello@mattbrody.io"
   description = "Landing Page"
   bio = "Technology Assistant \nDallas School District"
   avatar = "img/dsd_pic.jpg"
